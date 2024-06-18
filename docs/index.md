@@ -45,6 +45,7 @@ For testing gatekeeper
 | 2 | e-statuses | [Statuses](/t/12231) |
 | 2 | e-juju-details | [Juju](/t/12273) |
 
+
 # Contents
 
 1. [Tutorial](tutorial)
@@ -88,3 +89,4 @@ For testing gatekeeper
   1. [Interfaces/endpoints](explanation/e-interfaces.md)
   1. [Statuses](explanation/e-statuses.md)
   1. [Juju](explanation/e-juju-details.md)
+    1. [Deploy on MicroK8s](how-to/h-setup/h-deploy-microk8s.md)
