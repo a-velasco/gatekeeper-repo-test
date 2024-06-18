@@ -4,7 +4,7 @@ name: repo-test
 display-name: Gatekeeper Test Repository
 description: |
   This is a dummy charm to be used for Gatekeeper End-to-End tests
-docs: https://discourse.charmhub.io/t/charmed-mongodb-k8s-documentation/9731
+docs: https://discourse.charmhub.io/t/test-topic/14447
 summary: Dummy charm
 series:
   - jammy
